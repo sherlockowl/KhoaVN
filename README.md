@@ -1,2 +1,2 @@
 # KhoaVN
-Self repository of KhoaVN
+Self repository of KhoaVN.
