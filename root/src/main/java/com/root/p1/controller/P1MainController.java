@@ -30,12 +30,9 @@ public class P1MainController {
      */
     @RequestMapping(value="/p1/date")
     public DateModel currentDate() throws Exception {
-        log.info(Constants.LOGMSG_START_CONTROLLER + clazzName + " currentDate()");
-        
         // Get current date
         DateModel date = dateService.getCurrentDateFromNamed();
         
-        log.info(Constants.LOGMSG_END_CONTROLLER + clazzName + " currentDate()");
         return date;
     }
 }
