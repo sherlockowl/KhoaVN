@@ -1,6 +1,9 @@
 package com.root.p1.common;
 
-public interface Constants {
+import org.springframework.stereotype.Component;
+
+@Component("constants")
+public class Constants {
 
     // LOG MESSAGE TEMPLATE
     public static final String LOGMSG_START_METHOD = "Start method ";

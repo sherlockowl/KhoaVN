@@ -3,6 +3,28 @@
 	<title>INDEX</title>
 </head>
 <body>
-	<h1>INDEX PAGE</h1>
+	<div id="wrapper">
+		<h1 id="time" data-th-text="${@constants.LOGMSG_START_METHOD}"></h1>
+	</div>
+	<script type="text/javascript" src="/js/jquery.min.js"></script>
+	<script type="text/javascript">
+		$(document).ready(function(){
+			//setInterval(getDate,1000);
+		});
+		
+		var getDate = function() {
+			$('#time').text('');
+			$.ajax({
+				url: "/p1/date",
+				success: function(data, status){
+					var yy = data.yyyy,
+							mm = data.mm,
+							dd = data.dd,
+							curr_time = data.curr_time;
+					$('#time').text(yy + ":" + mm + ":" + dd + " " + curr_time);
+				}
+			});
+		};
+	</script>
 </body>
 </html>

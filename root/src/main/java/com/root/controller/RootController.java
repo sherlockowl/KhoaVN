@@ -2,8 +2,6 @@ package com.root.controller;
 
 import javax.servlet.http.HttpServletResponse;
 
-import org.slf4j.Logger;
-import org.slf4j.LoggerFactory;
 import org.springframework.boot.autoconfigure.web.ErrorController;
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.RequestMapping;
@@ -11,12 +9,6 @@ import org.springframework.web.bind.annotation.RequestMapping;
 @Controller
 public class RootController implements ErrorController{
 
-    // Class name defination
-    private String clazzName = this.getClass().getName();
-
-    // Logger defination
-    private Logger log = LoggerFactory.getLogger(this.getClass());
-    
     // Error path
     private static final String PATH = "/error";
 
