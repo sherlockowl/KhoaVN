@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<configuration>
+	<include resource="org/springframework/boot/logging/logback/base.xml" />
+
+	<appender name="ROOT_LOGGING" class="ch.qos.logback.core.rolling.RollingFileAppender">
+		<file>./root-logging.log</file>
+		<encoder class="ch.qos.logback.classic.encoder.PatternLayoutEncoder">
+			<Pattern>%d{yyyy-MM-dd HH:mm:ss} - %msg%n</Pattern>
+		</encoder>
+		<rollingPolicy class="ch.qos.logback.core.rolling.TimeBasedRollingPolicy">
+			<fileNamePattern>./log/root-logging_%d{yyyyMMdd}.log</fileNamePattern>
+		</rollingPolicy>
+	</appender>
+<!-- 	<logger name="org.springframework.web.servlet" level="DEBUG"> -->
+<!-- 	   <appender-ref ref="ROOT_LOGGING" /> -->
+<!-- 	</logger> -->
+<!-- 	<logger name="org.hibernate" level="ERROR" > -->
+<!-- 	   <appender-ref ref="ROOT_LOGGING" /> -->
+<!-- 	</logger> -->
+<!-- 	<logger name="org.thymeleaf" level="ERROR" > -->
+<!-- 	   <appender-ref ref="ROOT_LOGGING" /> -->
+<!-- 	</logger> -->
+<!-- 	<root level="INFO"> -->
+<!-- 	   <appender-ref ref="CONSOLE" /> -->
+<!-- 	</root> -->
+<!-- 	<root level="ERROR"> -->
+<!-- 	   <appender-ref ref="ROOT_LOGGING" /> -->
+<!-- 	</root> -->
+	<logger name="com.root" additivity="false">
+	   <appender-ref ref="CONSOLE" />
+	</logger>
+</configuration>
