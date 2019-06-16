@@ -46,9 +46,10 @@
       {
          "id": 1,
          "date": "06/16/2019",
+         "crawlKeyword": "Nike"
          "zikItem": "item 01",
-         "link": "http://cdfsdfs.com",
-         "description": "todo"
+         "link": "https://www.ebay.com/itm/143281988617",
+         "description": "Brand New Nike Air Max Torch 3 Black White Silver 319116-011 Mens Running Shoes"
       }
    ]
 }
