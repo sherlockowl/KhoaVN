@@ -42,6 +42,7 @@
    ],
    "logs": [
       {
+         "id": 1,
          "date": "06/16/2019",
          "zikItem": "item 01",
          "link": "http://cdfsdfs.com",
