@@ -2,6 +2,7 @@
    "datas": [
       {
          "id": "1",
+         "crawledKeyword": "Nike",
          "asinCode": "B07C5FXLGM",
          "name": "Nike Air Max Torch 3 Men's Running Shoes",
          "price": "$59.99 - $200.00",
@@ -10,6 +11,7 @@
       },
       {
          "id": "2",
+         "crawledKeyword": "Nike",
          "asinCode": "B07BVW2FJX",
          "name": "Nike Men's Revolution 4 Running Shoe",
          "price": "$44.99 - $60.00",
