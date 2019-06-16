@@ -17,6 +17,78 @@
          "price": "$44.99 - $60.00",
          "avgReview": 4.5,
          "link": "https://www.amazon.com/NIKE-Mens-Revolution-Running-Shoe/dp/B07BVW2FJX"
+      },
+      {
+         "id": "3",
+         "crawledKeyword": "Nike",
+         "asinCode": "B07C5FXLGM",
+         "name": "Nike Air Max Torch 3 Men's Running Shoes",
+         "price": "$59.99 - $200.00",
+         "avgReview": 4.5,
+         "link": "https://www.amazon.com/NIKE-Torch-Mens-Running-Shoes/dp/B07C5FXLGM"
+      },
+      {
+         "id": "4",
+         "crawledKeyword": "Nike",
+         "asinCode": "B07BVW2FJX",
+         "name": "Nike Men's Revolution 4 Running Shoe",
+         "price": "$44.99 - $60.00",
+         "avgReview": 4.5,
+         "link": "https://www.amazon.com/NIKE-Mens-Revolution-Running-Shoe/dp/B07BVW2FJX"
+      },
+      {
+         "id": "5",
+         "crawledKeyword": "Nike",
+         "asinCode": "B07C5FXLGM",
+         "name": "Nike Air Max Torch 3 Men's Running Shoes",
+         "price": "$59.99 - $200.00",
+         "avgReview": 4.5,
+         "link": "https://www.amazon.com/NIKE-Torch-Mens-Running-Shoes/dp/B07C5FXLGM"
+      },
+      {
+         "id": "6",
+         "crawledKeyword": "Nike",
+         "asinCode": "B07BVW2FJX",
+         "name": "Nike Men's Revolution 4 Running Shoe",
+         "price": "$44.99 - $60.00",
+         "avgReview": 4.5,
+         "link": "https://www.amazon.com/NIKE-Mens-Revolution-Running-Shoe/dp/B07BVW2FJX"
+      },
+      {
+         "id": "7",
+         "crawledKeyword": "Nike",
+         "asinCode": "B07C5FXLGM",
+         "name": "Nike Air Max Torch 3 Men's Running Shoes",
+         "price": "$59.99 - $200.00",
+         "avgReview": 4.5,
+         "link": "https://www.amazon.com/NIKE-Torch-Mens-Running-Shoes/dp/B07C5FXLGM"
+      },
+      {
+         "id": "8",
+         "crawledKeyword": "Nike",
+         "asinCode": "B07BVW2FJX",
+         "name": "Nike Men's Revolution 4 Running Shoe",
+         "price": "$44.99 - $60.00",
+         "avgReview": 4.5,
+         "link": "https://www.amazon.com/NIKE-Mens-Revolution-Running-Shoe/dp/B07BVW2FJX"
+      },
+      {
+         "id": "9",
+         "crawledKeyword": "Nike",
+         "asinCode": "B07C5FXLGM",
+         "name": "Nike Air Max Torch 3 Men's Running Shoes",
+         "price": "$59.99 - $200.00",
+         "avgReview": 4.5,
+         "link": "https://www.amazon.com/NIKE-Torch-Mens-Running-Shoes/dp/B07C5FXLGM"
+      },
+      {
+         "id": "10",
+         "crawledKeyword": "Nike",
+         "asinCode": "B07BVW2FJX",
+         "name": "Nike Men's Revolution 4 Running Shoe",
+         "price": "$44.99 - $60.00",
+         "avgReview": 4.5,
+         "link": "https://www.amazon.com/NIKE-Mens-Revolution-Running-Shoe/dp/B07BVW2FJX"
       }
    ],
    "zikUsers": [
@@ -45,6 +117,78 @@
    "logs": [
       {
          "id": 1,
+         "date": "06/16/2019",
+         "crawlKeyword": "Nike",
+         "zikItem": "Men's Nike Revolution 4 Running Shoe",
+         "link": "https://www.ebay.com/itm/143281988617",
+         "description": "Brand New Nike Air Max Torch 3 Black White Silver 319116-011 Mens Running Shoes"
+      },
+      {
+         "id": 2,
+         "date": "06/16/2019",
+         "crawlKeyword": "Nike",
+         "zikItem": "Men's Nike Revolution 4 Running Shoe",
+         "link": "https://www.ebay.com/itm/143281988617",
+         "description": "Brand New Nike Air Max Torch 3 Black White Silver 319116-011 Mens Running Shoes"
+      },
+      {
+         "id": 3,
+         "date": "06/16/2019",
+         "crawlKeyword": "Nike",
+         "zikItem": "Men's Nike Revolution 4 Running Shoe",
+         "link": "https://www.ebay.com/itm/143281988617",
+         "description": "Brand New Nike Air Max Torch 3 Black White Silver 319116-011 Mens Running Shoes"
+      },
+      {
+         "id": 4,
+         "date": "06/16/2019",
+         "crawlKeyword": "Nike",
+         "zikItem": "Men's Nike Revolution 4 Running Shoe",
+         "link": "https://www.ebay.com/itm/143281988617",
+         "description": "Brand New Nike Air Max Torch 3 Black White Silver 319116-011 Mens Running Shoes"
+      },
+      {
+         "id": 5,
+         "date": "06/16/2019",
+         "crawlKeyword": "Nike",
+         "zikItem": "Men's Nike Revolution 4 Running Shoe",
+         "link": "https://www.ebay.com/itm/143281988617",
+         "description": "Brand New Nike Air Max Torch 3 Black White Silver 319116-011 Mens Running Shoes"
+      },
+      {
+         "id": 6,
+         "date": "06/16/2019",
+         "crawlKeyword": "Nike",
+         "zikItem": "Men's Nike Revolution 4 Running Shoe",
+         "link": "https://www.ebay.com/itm/143281988617",
+         "description": "Brand New Nike Air Max Torch 3 Black White Silver 319116-011 Mens Running Shoes"
+      },
+      {
+         "id": 7,
+         "date": "06/16/2019",
+         "crawlKeyword": "Nike",
+         "zikItem": "Men's Nike Revolution 4 Running Shoe",
+         "link": "https://www.ebay.com/itm/143281988617",
+         "description": "Brand New Nike Air Max Torch 3 Black White Silver 319116-011 Mens Running Shoes"
+      },
+      {
+         "id": 8,
+         "date": "06/16/2019",
+         "crawlKeyword": "Nike",
+         "zikItem": "Men's Nike Revolution 4 Running Shoe",
+         "link": "https://www.ebay.com/itm/143281988617",
+         "description": "Brand New Nike Air Max Torch 3 Black White Silver 319116-011 Mens Running Shoes"
+      },
+      {
+         "id": 9,
+         "date": "06/16/2019",
+         "crawlKeyword": "Nike",
+         "zikItem": "Men's Nike Revolution 4 Running Shoe",
+         "link": "https://www.ebay.com/itm/143281988617",
+         "description": "Brand New Nike Air Max Torch 3 Black White Silver 319116-011 Mens Running Shoes"
+      },
+      {
+         "id": 10,
          "date": "06/16/2019",
          "crawlKeyword": "Nike",
          "zikItem": "Men's Nike Revolution 4 Running Shoe",
