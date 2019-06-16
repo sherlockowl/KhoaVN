@@ -1,15 +1,36 @@
 {
-  datas: [
-    {}
-  ],
-  zikUsers: [
-    {id: 1, username: 'uzik01', password: '123qwe!@#', available: true},
-    {id: 2, username: 'uzik02', password: '123qwe!@#', available: true},
-  ],
-  users: [
-    {id: 1, username: 'admin01', password: '456ERT$%^', role: 'admin', status: "active"}
-  ],
-  logs: [
-    {date: "06/16/2019", zikItem: "item 01", link: "http://cdfsdfs.com", description: "todo"}
-  ]
+   "datas": [
+      {}
+   ],
+   "zikUsers": [
+      {
+         "id": 1,
+         "username": "uzik01",
+         "password": "123qwe!@#",
+         "available": true
+      },
+      {
+         "id": 2,
+         "username": "uzik02",
+         "password": "123qwe!@#",
+         "available": true
+      }
+   ],
+   "users": [
+      {
+         "id": 1,
+         "username": "admin01",
+         "password": "456ERT$%^",
+         "role": "admin",
+         "status": "active"
+      }
+   ],
+   "logs": [
+      {
+         "date": "06/16/2019",
+         "zikItem": "item 01",
+         "link": "http://cdfsdfs.com",
+         "description": "todo"
+      }
+   ]
 }
